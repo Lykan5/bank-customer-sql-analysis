@@ -16,3 +16,10 @@ This project analyzes bank customer transaction to identify spending patterns, d
 -01_create_tables.sql
 -02_insert_data.sql
 -03_analysis_queries.sql
+
+## Sample Output
+###Total Transaction per Customer
+![Total](output_total.png.png)
+
+###Customer Segmentation
+![segmentation](SQL-analysis.png)
