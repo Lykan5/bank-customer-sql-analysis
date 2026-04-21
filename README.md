@@ -21,7 +21,7 @@ This project analyzes bank customer transactions using SQL, Excel, and Power BI 
 ---
 
 ## 📊 Power BI Dashboard Preview
-![Dashboard](image/Bank Bi visualization.png)
+![Dashboard](image/BankBidashboard.png)
 
 ---
 
