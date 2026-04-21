@@ -1,25 +1,41 @@
-# Bank Customer Transaction Analysis SQL Project
-## Overview
-This project analyzes bank customer transaction to identify spending patterns, detect fraud, and segment customers.
+# Bank Customer Transaction Analysis
 
-##Tools Used
--Oracle SQL Developer
--SQL
+## 📌 Overview
+This project analyzes bank customer transactions using SQL, Excel, and Power BI to generate meaningful business insights.
 
-## key Features
--Joins & Aggregations
--Monthly Transaction Analysis
--Fraud detection using threshold logic
--Customer Segmentations using CASE WHEN
+---
 
-## Project Files
--01_create_tables.sql
--02_insert_data.sql
--03_analysis_queries.sql
+## 🛠 Tools Used
+- SQL (Oracle SQL Developer)
+- Excel (Pivot Tables, Charts)
+- Power BI (Interactive Dashboard)
 
-## Sample Output
-###Total Transaction per Customer
-![Total](output_total.png.png)
+---
 
-###Customer Segmentation
-![segmentation](SQL-analysis.png)
+## 📂 Project Structure
+- sql/ → SQL scripts for data creation and analysis
+- excel/ → Excel dashboard and analysis
+- powerbi/ → Power BI dashboard and visuals
+- images/ → Supporting images
+
+---
+
+## 📊 Power BI Dashboard Preview
+![Dashboard](image/Bank Bi visualization.png)
+
+---
+
+## 🔍 Key Insights
+- Total Revenue Overview
+- Top Customers by Transaction Amount
+- Monthly Transaction Trends
+- Customer Segmentation (High / Medium / Low)
+
+---
+
+## 📁 Files Included
+- SQL scripts (table creation, inserts, analysis queries)
+- Excel dashboard file
+- Power BI dashboard file
+- Image file
+---
